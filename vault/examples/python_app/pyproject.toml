@@ -9,7 +9,7 @@ readme = "README.md"
 python = "^3.12"
 pymysql = "^1.1.1"
 hvac = "^2.3.0"
-cryptography = "^43.0.1"
+cryptography = "^44.0.1"
 
 
 [build-system]
